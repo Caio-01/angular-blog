@@ -1,0 +1,38 @@
+.small__card__container {
+  width: 500px;
+  margin-bottom: 15px;
+}
+
+.small__card__container > hr {
+  margin-top: 10px;
+}
+
+.small__card__content__container {
+  display: flex;
+  flex-direction: row;
+}
+
+.small__card__img > img {
+  width: 150px;
+  max-height: 140px;
+  margin-right: 20px;
+  border-radius: 5px;
+}
+
+.small__card__title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.small__card__title > a {
+  font-size: 1.3em;
+  text-decoration: none;
+  text-shadow: -3px 0px 4px rgba(0, 0, 0, 0.76);
+
+}
+
+.small__card__title > a:hover{
+  color: #c4c3bb;
+  transition: 0.5s ease;
+}

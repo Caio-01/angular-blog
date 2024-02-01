@@ -1,0 +1,43 @@
+.menu__bar__container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.logo__img > img{
+  width: 65px;
+  height: 70px;
+  border-radius: 50%;
+}
+
+.menu__bar__container > ul {
+  display: flex;
+  place-items: center;
+  flex-direction: row;
+  gap: 2em;
+  list-style: none;
+}
+
+.menu__bar__container li > a {
+  text-decoration: none;
+  position: relative;
+  font-size: 1.1em;
+}
+
+.menu__bar__container li > span {
+  font-size: 1.2em;
+}
+
+.menu__bar__container li > a::after {
+  content: "";
+  height: 3px;
+  width: 0;
+  background-color: #658520;
+  position: absolute;
+  left: 0;
+  bottom: -5px;
+  transition: 0.5s;
+}
+
+.menu__bar__container li > a:hover::after {
+  width: 100%;
+}
