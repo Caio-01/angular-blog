@@ -3,8 +3,8 @@
     border-radius: 10px;
     margin-left: 15px;
     margin-right: 15px;
-    width: 383px;
-    height: 400px;
+    width: 375px;
+    height: 350px;
 
     display: flex;
     flex-direction: column;
@@ -34,4 +34,6 @@
 .big__card__description > p {
     color: #afae9d;
     margin-top: 10px;
+    
 }
+

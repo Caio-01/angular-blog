@@ -10,6 +10,10 @@
 .small__card__content__container {
   display: flex;
   flex-direction: row;
+  background-color: #74756241;
+
+  height: 140px;
+  border-radius: 5px;
 }
 
 .small__card__img > img {
