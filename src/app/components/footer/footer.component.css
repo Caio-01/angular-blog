@@ -2,8 +2,9 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #272829ce;
-  height: 40px;
+  background-color: #272829e8;
+  border-top: 1px solid #fff;
+  height: 45px;
   font-size: 1.2em;
   z-index: 1;
 }
