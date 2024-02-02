@@ -12,7 +12,7 @@ Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli
 
 ## Resultados 🚩
 Veja o resultado do site na imagem abaixo:
-![Imagem do site com alguns Pokemons](../angular-blog/src/assets/the-place.png)
+![Imagem do site ](./src/assets/the-place.png)
 
 ## Links 🔗
 
