@@ -1,0 +1,19 @@
+.rodape {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #272829ce;
+  height: 40px;
+  font-size: 1.2em;
+  z-index: 1;
+}
+
+.rodape a {
+  text-decoration: none;
+  font-style: italic;
+  transition: 0.2s ease;
+}
+
+.rodape a:hover {
+  text-shadow: 1px 1px 7px rgba(255, 255, 255, 0.603);
+}
