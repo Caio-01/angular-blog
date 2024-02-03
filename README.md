@@ -14,6 +14,7 @@ Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli
 Veja o resultado do site na imagem abaixo:
 ![Imagem do site ](./src/assets/the-place.png)
 
+>OBS: As imagens utilizadas é apenas de inlustração para aplicar os conhecimentos na prática, sendo elas retiradas de outros sites!!
 ## Links 🔗
 
 * [🔍 Digital Innovation One](https://www.dio.me/)
